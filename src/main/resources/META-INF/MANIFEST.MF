@@ -1,0 +1,29 @@
+Manifest-Version: 1.0
+Main-Class: com.yjw.blog.BlogApplication
+Class-Path: spring-boot-2.4.2.jar jackson-core-2.11.4.jar jakarta.el-3.0
+ .3.jar jakarta.persistence-api-2.2.3.jar log4j-to-slf4j-2.13.3.jar spri
+ ng-boot-starter-logging-2.4.2.jar spring-aop-5.3.3.jar jackson-datatype
+ -jdk8-2.11.4.jar jakarta.annotation-api-1.3.5.jar spring-boot-starter-a
+ op-2.4.2.jar spring-webmvc-5.3.3.jar logback-classic-1.2.3.jar spring-c
+ ontext-5.3.3.jar spring-jdbc-5.3.3.jar spring-expression-5.3.3.jar jul-
+ to-slf4j-1.7.30.jar spring-boot-devtools-2.4.2.jar javassist-3.27.0-GA.
+ jar log4j-api-2.13.3.jar istack-commons-runtime-3.0.11.jar mysql-connec
+ tor-java-8.0.22.jar spring-boot-starter-json-2.4.2.jar jackson-databind
+ -2.11.4.jar spring-boot-starter-tomcat-2.4.2.jar jakarta.transaction-ap
+ i-1.3.3.jar jandex-2.1.3.Final.jar spring-beans-5.3.3.jar hibernate-com
+ mons-annotations-5.1.2.Final.jar hibernate-core-5.4.27.Final.jar jakart
+ a.activation-1.2.2.jar jakarta.xml.bind-api-2.3.3.jar spring-orm-5.3.3.
+ jar spring-boot-starter-2.4.2.jar spring-data-jpa-2.4.3.jar java-jwt-3.
+ 8.3.jar HikariCP-3.4.5.jar classmate-1.5.1.jar spring-aspects-5.3.3.jar
+  jackson-datatype-jsr310-2.11.4.jar logback-core-1.2.3.jar txw2-2.3.3.j
+ ar mssql-jdbc-8.4.1.jre8.jar spring-boot-starter-web-2.4.2.jar jackson-
+ annotations-2.11.4.jar dom4j-2.1.3.jar spring-web-5.3.3.jar jaxb-runtim
+ e-2.3.3.jar commons-io-2.5.jar aspectjweaver-1.9.6.jar spring-core-5.3.
+ 3.jar snakeyaml-1.27.jar byte-buddy-1.10.19.jar antlr-2.7.7.jar slf4j-a
+ pi-1.7.30.jar jakarta.activation-api-1.2.2.jar spring-boot-autoconfigur
+ e-2.4.2.jar spring-tx-5.3.3.jar jackson-module-parameter-names-2.11.4.j
+ ar spring-boot-starter-data-jpa-2.4.2.jar jboss-logging-3.4.1.Final.jar
+  tomcat-embed-websocket-9.0.41.jar commons-codec-1.15.jar tomcat-embed-
+ core-9.0.41.jar spring-jcl-5.3.3.jar spring-boot-starter-jdbc-2.4.2.jar
+  spring-data-commons-2.4.3.jar
+

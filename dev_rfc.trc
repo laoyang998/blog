@@ -1,0 +1,12 @@
+
+**** ERROR file opened at 20210307 002521 中国标准时间, SAP-REL 640,0,377 RFC-VER 3  MT-SL
+T:9348 Error in program 'java': ======> Incomplete logon data.
+T:9348 Error in program 'java': <* RfcReceive [1] : returns 3:RFC_SYS_EXCEPTION
+
+**** ERROR file opened at 20210307 154658 中国标准时间, SAP-REL 640,0,377 RFC-VER 3  MT-SL
+T:17336 Error in program 'java': ======> Incomplete logon data.
+T:17336 Error in program 'java': <* RfcReceive [1] : returns 3:RFC_SYS_EXCEPTION
+
+**** ERROR file opened at 20210307 154848 中国标准时间, SAP-REL 640,0,377 RFC-VER 3  MT-SL
+T:14556 Error in program 'java': ======> Incomplete logon data.
+T:14556 Error in program 'java': <* RfcReceive [1] : returns 3:RFC_SYS_EXCEPTION
